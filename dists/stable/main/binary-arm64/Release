@@ -1,0 +1,5 @@
+Component: main
+Origin: Mirivan.ml
+Label: Mirivan.ml
+Architecture: arm64
+Description: Mirivan unstable APT repository

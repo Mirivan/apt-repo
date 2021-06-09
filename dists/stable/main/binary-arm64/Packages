@@ -1,0 +1,13 @@
+Package: hid-keyboard
+Version: 1.0
+Architecture: arm64
+Maintainer: Example maintainer
+Priority: extra
+Section: misc
+Filename: pool/main/h/hid-keyboard/hid-keyboard_1.0_arm64.deb
+Size: 5884
+SHA256: ad31d9e53f4622d6ec616e187ffc968f12f52ebc09dfb86d170290ead91f63a8
+SHA1: 40e428ba12f03add87a35660df25c129dfa9ea89
+MD5sum: c428615af2a82e139c62713d86ef32ca
+Description: Example description
+

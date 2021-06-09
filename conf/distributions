@@ -1,0 +1,6 @@
+Origin: Mirivan.ml
+Label: Mirivan.ml
+Codename: stable
+Architectures: arm64
+Components: main
+Description: Mirivan unstable APT repository

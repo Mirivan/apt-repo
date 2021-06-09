@@ -1,0 +1,19 @@
+Origin: Mirivan.ml
+Label: Mirivan.ml
+Codename: stable
+Date: Wed, 09 Jun 2021 04:58:45 UTC
+Architectures: arm64
+Components: main
+Description: Mirivan unstable APT repository
+MD5Sum:
+ ff26506c1bd24ad912369c3430bb6a75 384 main/binary-arm64/Packages
+ 0f95901263f63f042b2ad00849563e70 286 main/binary-arm64/Packages.gz
+ e46e0888024f1391eb86cf97ac89520e 118 main/binary-arm64/Release
+SHA1:
+ 7402998be25947af6646a1476cb0cdc010dc149c 384 main/binary-arm64/Packages
+ c8a787dde607b1d6f445bfbabfa8d3256a66c37c 286 main/binary-arm64/Packages.gz
+ c8a00feeb56c62cc978456aa1d0c112db1c7ad1a 118 main/binary-arm64/Release
+SHA256:
+ 230c66da0809ae758d7c589752eb1b44653ed449fdd095a065b1c02753a34d6f 384 main/binary-arm64/Packages
+ d1b362fbe1a7f22206d7585758ccb98226aa48a30438b12a7bc49aa1f5963976 286 main/binary-arm64/Packages.gz
+ 239c044c74f4102ed60f5dbf35c4c9a289dc2fa0ce30781144c92b459d85da8b 118 main/binary-arm64/Release
